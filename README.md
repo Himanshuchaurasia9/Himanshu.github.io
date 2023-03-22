@@ -30,7 +30,7 @@
 
 ## About The Project
 
-![Screen Shot](http://drive.google.com/uc?export=view&id=1XYTMCbPpea8pyQ0rpJyxXYnGyOdsc4zU)
+![Screen Shot](https://drive.google.com/uc?export=view&id=1mWkeA4T6g56rkNNNb2-72ANcVJPPlaT5)
 
 A clean, beautiful and responsive portfolio website!!!
 It contains all the important section which is necessary for a portfolio website.
