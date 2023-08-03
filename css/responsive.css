@@ -54,7 +54,7 @@
         margin: 17px ;
         font-size: 20px;
         transition: all .45s ease;
-        color: var(--text-color);
+        color: var(--text-white);
     }
     .navlist a:hover{
         color: var(--main-color);
@@ -86,7 +86,7 @@
         margin: 17px ;
         font-size: 20px;
         transition: all .45s ease;
-        color: var(--text-color);
+        color: var(--text-white);
     }
     .navlist a:hover{
         color: var(--main-color);
