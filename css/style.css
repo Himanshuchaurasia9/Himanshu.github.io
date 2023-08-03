@@ -14,7 +14,7 @@ header{
     transition: all .45s ease;
 }
 .logo{
-    color: var(--text-color);
+    color: var(--text-white);
     font-size: 35px;
     font-weight: 700;
     letter-spacing: 1px;
@@ -26,7 +26,7 @@ span{
     display: flex;
 }
 .navlist a{
-    color: var(--second-color);
+    color: var(--text-gray);
     font-size: 17px;
     font-weight: 500;
     margin: 0 25px;
@@ -40,7 +40,7 @@ span{
 }
 #menu-icon{
     font-size: 35px;
-    color: var(--text-color);
+    color: var(--text-white);
     z-index: 1000;
     cursor: pointer;
     margin-left: 25px;
@@ -73,30 +73,30 @@ section{
     font-weight: 500;
     border-radius: 5px;
     background: var(--main-color);
-    color: var(--text-color);
+    color: var(--text-white);
 }
 .two{
     display: inline-block;
-    color: var(--second-color);
+    color: var(--text-gray);
     font-size: 20px;
     font-weight: 500;
 }
 .home-text h1{
     font-size: var(--big-font);
     font-weight: 700;
-    color: var(--text-color);
+    color: var(--text-white);
     line-height: 1.1;
     margin: 0 0 8px;
 }
 .home-text h3{
-    color: var(--text-color);
+    color: var(--text-white);
     margin: 0 0 35px;
     font-size: 3rem;
     font-weight: 700;
     line-height: 1.1;
 }
 .home-text p{
-    color: var(--second-color);
+    color: var(--text-gray);
     font-size: var(--p-text);
     margin-bottom: 40px;
     line-height: 1.8;
@@ -111,7 +111,7 @@ section{
     padding: 12px;
     background: var(--main-color);
     border-radius: 5px;
-    color: var(--text-color);
+    color: var(--text-white);
     font-size: 1rem;
     letter-spacing: 1px;
     font-weight: 500;
@@ -141,12 +141,12 @@ section{
 .about-text h4{
     font-size: 24px;
     font-weight: 600;
-    color: var(--text-color);
+    color: var(--text-white);
     line-height: 1.7;
     margin: 15px 0 30px;
 }
 .about-text p{
-    color: var(--second-color);
+    color: var(--text-gray);
     font-size: var(--p-text);
     line-height: 1.8;
     margin-bottom :4rem ;
@@ -161,7 +161,7 @@ section{
     text-align: center;
 }
 .main-text p{
-    color: var(--second-color);
+    color: var(--text-gray);
     font-size: 15px;
     margin-bottom: 15px;
 }
@@ -247,7 +247,8 @@ section{
     margin-bottom: 15px;
 }
 .layer p{
-    color: var(--second-color);
+    color: var(--text-gray);
+    font-weight: 500;
     font-size: 1rem;
     line-height: 1.8;
 }
@@ -255,7 +256,7 @@ section{
     color: var(--main-color);
     margin-top: 20px;
     font-size: 20px;
-    background: var(--text-color);
+    background: var(--text-white);
     width: 60px;
     height: 60px;
     display: flex;
@@ -279,7 +280,7 @@ section{
     gap: 2.5rem;
 }
 .contact-text h4{
-    color: var(--text-color);
+    color: var(--text-white);
     margin: 18px 0;
     font-size: 20px;
     font-weight: 600;
@@ -289,7 +290,7 @@ section{
     line-height: 1;
 }
 .contact-text p{
-    color: var(--second-color);
+    color: var(--text-gray);
     font-size: var(--p-text);
     line-height: 1.8;
     margin-bottom: 30px;
@@ -302,18 +303,18 @@ section{
 }
 .list li a{
     display: block;
-    color: var(--second-color);
+    color: var(--text-gray);
     font-size: 14px;
     transition: all .45s ease;
 }
 .list li a:hover{
-    color: var(--text-color);
+    color: var(--text-white);
     transform: translateY(5px);
 }
 .contact-icons i{
     height: 45px;
     width: 45px;
-    color: var(--text-color);
+    color: var(--text-white);
     font-size: 22px;
     display: inline-block;
     align-items: center;
@@ -332,7 +333,7 @@ section{
     width: 100%;
     padding: 14px;
     background: var(--bg-color);
-    color: var(--text-color);
+    color: var(--text-white);
     border: none;
     outline: none;
     font-size: 15px;
@@ -347,7 +348,7 @@ section{
     display: inline-block;
     font-size: 16px;
     background: var(--main-color);
-    color: var(--text-color);
+    color: var(--text-white);
     width: 160px;
     transition: all .45s ease;
 }
@@ -367,12 +368,12 @@ section{
     background: var(--bg-color);
 }
 .last-text p{
-    color: var(--text-color);
+    color: var(--text-white);
 }
 .top i{
     padding: 10px;
     border-radius: 8px;
     font-size: 25px;
-    color: var(--text-color);
+    color: var(--text-white);
     background: var(--main-color);
 }
