@@ -9,6 +9,9 @@
     .footer{
         padding: 15px 3%;
     }
+    .do{
+        display: none;
+    }
 }
 @media (max-width:1100px) {
     :root{
@@ -65,6 +68,12 @@
     .navlist.open{
         top: 100%
     }
+    .hero{
+        display: unset;
+    }
+    .do{
+        display: none;
+    }
 }
 @media (max-width: 480px){
     #menu-icon{
@@ -97,5 +106,16 @@
     .navlist .open{
         top: 100%
     }
-
+    .footer .last-text .hero{
+        display: none;
+    }
+    .footer .last-text .do{
+        display: unset;
+    }
+    .footer .last-text p{
+        font-size: 0.7rem;
+    }
+    .footer .top i{
+        font-size: 1rem;
+    }
 }
