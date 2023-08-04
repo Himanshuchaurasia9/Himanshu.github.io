@@ -1,3 +1,5 @@
+new WOW().init();
+
 const menu= document.querySelector("#menu-icon");
 const navlist= document.querySelector(".navlist");
 
